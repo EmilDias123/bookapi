@@ -1,4 +1,4 @@
-# Book API (Spring Boot + Hibernate + PostgreSQL)
+# Book API (Spring Boot + PostgreSQL)
 
 Проект представляет собой RESTful API для управления библиотекой книг. Используется Spring Boot для создания серверной части, Hibernate для работы с базой данных и PostgreSQL для хранения данных.
 
