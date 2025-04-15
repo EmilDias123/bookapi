@@ -87,4 +87,4 @@ GitHub: EmilDias123
 📄 Лицензия
 Проект с открытым исходным кодом (MIT License).
 
-Репозиторий: github.com/EmilDias123/todo-java-console
+Репозиторий: github.com/EmilDias123/bookapi
